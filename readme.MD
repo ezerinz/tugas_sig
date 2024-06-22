@@ -3,6 +3,9 @@
 - NIM: D0221371
 - Kelas: Informatika
 
+## Demo
+Demo dapat diakses di https://edwin-lh.is-a.dev/tugas_sig
+
 ### Cara run
 1. clone github
 ```bash
