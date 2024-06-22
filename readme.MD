@@ -1,7 +1,7 @@
 # Tugas Akhir SIG (Sistem Informasi Geografis)
 - Nama: Edwin
 - NIM: D0221371
-- Kelas: Informatika
+- Kelas: Informatika A
 
 ## Demo
 Demo dapat diakses di https://edwin-lh.is-a.dev/tugas_sig
