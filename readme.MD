@@ -17,7 +17,7 @@ cd tugas_sig
 ```
 3. install requirements
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 4. run
 ```bash
